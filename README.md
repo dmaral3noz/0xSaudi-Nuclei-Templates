@@ -14,9 +14,10 @@ Nuclei Templates for APK
 > git clone https://github.com/dmaral3noz/0xSaudi-Nuclei-Templates.git
 
 --- 
-Now Run this Command on nuclei: 
+Now Run this Commands: 
 
+    apktool d file.apk
 	echo FOLDER_APK | nuclei -t /0xSaudi-Templates/
 
-
-
+example:
+> echo test/  | nuclei -t 0xSaudi-Templates
