@@ -21,4 +21,4 @@ Now Run this Commands:
 
 example:
 > echo test/  | nuclei -t 0xSaudi-Templates
-![ScreenShot](https://github.com/dmaral3noz/0xSaudi-Nuclei-Templates/blob/a9179d9df40a17211595a29f09ac5bfd0074c74d/img.png)
+![ScreenShot](https://github.com/dmaral3noz/0xSaudi-Nuclei-Templates/blob/00af0a1563a5f7153960f9788e676f144d86ec5a/img.png)
