@@ -17,5 +17,7 @@ Nuclei Templates for APK
 Now Run this Command on nuclei: 
 
     nuclei -t /PATH_TEMPLATE/
-	nuclei -t /0xSaudi-Nuclei/
+	echo FOLDER_APK | nuclei -t /0xSaudi-Templates/
+
+
 
